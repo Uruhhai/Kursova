@@ -1,0 +1,4 @@
+/home/ubuntu/calculator/task2/build/CMakeFiles/calc.dir
+/home/ubuntu/calculator/task2/build/CMakeFiles/mycalc.dir
+/home/ubuntu/calculator/task2/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/calculator/task2/build/CMakeFiles/rebuild_cache.dir
